@@ -1,0 +1,1 @@
+Lógica reutilizable en toda nuestra aplicación

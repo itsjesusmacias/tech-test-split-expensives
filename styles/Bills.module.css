@@ -1,0 +1,28 @@
+
+.container {
+    border: solid 1px;
+    border-color: aqua;
+
+    min-height: 10rem;
+    padding: 0 4rem;
+}
+
+.table {
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: scroll;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 0.1rem solid gray;
+    padding: 0.6rem 1rem;
+}
+
+.cell {
+    display: flex;
+    justify-content: center;
+
+    width: 100%;
+}
